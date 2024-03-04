@@ -8,7 +8,7 @@
 
     <modules>
         <module>person-service</module>
-        <module>sonar-plugins</module>
+        <module>sonar-scanner</module>
     </modules>
 
     <properties>
